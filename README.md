@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SRStoyanov
 - 👀 I’m interested in web development, data vizualization, polling aggregation and... poetry!
-- 🌱 I’m currently learning front-end frameworks - Svelte, React, and Angular.
+- 🌱 I’m currently learning front-end frameworks - React and Angular.
 - 📫 How to reach me: stoyanov.sava@gmail.com
 - ⚗️ Or just Take a look at my portfolio - https://srstoyanov.github.io
 - 😄 Pronouns: He/Him
